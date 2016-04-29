@@ -5,7 +5,7 @@ var Mail = {
 	configs     : null,
 	init : function(){
 		Mail.configs    = {
-			sendgrid_key : 'README.md',
+			sendgrid_key : '',
 			smtp         : 'smtp.gmail.com',
 			port         : 587,
 			user         : '',

@@ -1,0 +1,24 @@
+{
+  "name": "dctb-node-mail",
+  "version": "1.0.0",
+  "description": "Just a simple email send with NodeJS",
+  "main": "mail.js",
+  "dependencies": {
+    "nodemailer": "^2.3.2",
+    "sendgrid": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocezar/dctb-node-mail.git"
+  },
+  "author": "Diogo Cezar <diogo@diogocezar.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocezar/dctb-node-mail/issues"
+  },
+  "homepage": "https://github.com/diogocezar/dctb-node-mail#readme"
+}
